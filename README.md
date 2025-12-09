@@ -1,5 +1,6 @@
 # AOSP-SimulateAFakeHardwareSensor
-Simulate a fake hardware sensor ("Proximity++") that outputs a value from 0.0 to 1.0, and expose it to a custom Android app via the Android sensor framework.
+**## Task: Add a Virtual Hardware Sensor with Full Stack Integration**
+**Simulate a fake hardware sensor ("Proximity++") that outputs a value from 0.0 to 1.0, and expose it to a custom Android app via the Android sensor framework.**
 
 **## Deliverables**
 **- Working AOSP build (x86 or ARM emulator)**
